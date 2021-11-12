@@ -13,6 +13,4 @@ pandas==1.2.4
 
 altair==4.1.0
 
-make_blobs==0.24.1
-
-KMeans==0.24.1
+scikit-learn==0.24.1
